@@ -1,14 +1,16 @@
 main{
     display:flex;
     flex-direction: column;
-    height: 100vw;
-    background-color: aqua;
+    height: 200vw;
+    background-color: rgb(215, 201, 174);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .containerH{
     height: 15vw;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     text-align: center;
+    padding: 50px;
 }
 
 .containerV{
@@ -18,7 +20,7 @@ main{
 }
 
 .containerGalaxy{
-    background-color: rgb(100, 100, 189);
+   /*  background-color: rgb(100, 100, 189); */
     text-align: center;
     padding: 2rem;
 }
@@ -34,4 +36,14 @@ main{
 
 #iphoneImg{
     height: 20rem;
+}
+
+table{
+    background-color: aliceblue;
+    font-size: 15px;
+    text-align: left;
+}
+
+table th, table td{
+    padding: 12px 15px;
 }
