@@ -1,0 +1,37 @@
+main{
+    display:flex;
+    flex-direction: column;
+    height: 100vw;
+    background-color: aqua;
+}
+
+.containerH{
+    height: 15vw;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.containerV{
+    display: flex;
+    height: 85vw;
+
+}
+
+.containerGalaxy{
+    background-color: rgb(100, 100, 189);
+    text-align: center;
+    padding: 2rem;
+}
+
+.containerIpone{
+    text-align: center;
+    padding: 2rem;
+}
+
+#galaxyImg{
+    height: 20rem;
+}
+
+#iphoneImg{
+    height: 20rem;
+}
