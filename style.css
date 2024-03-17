@@ -1,5 +1,5 @@
 body{
-    background-color:gray;
+    background-color:rgba(128, 128, 128, 0.438);
 }
 
 main{
@@ -33,11 +33,13 @@ main{
 }
 
 #galaxyImg{
-    height: 20rem;
+    height: 17rem;
+    padding: 20px;
 }
 
 #iphoneImg{
-    height: 20rem;
+    height: 17rem;
+    padding: 20px;
 }
 
 table{
