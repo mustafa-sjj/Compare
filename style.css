@@ -1,8 +1,10 @@
+body{
+    background-color:gray;
+}
+
 main{
     display:flex;
     flex-direction: column;
-    height: 200vw;
-    background-color: rgb(215, 201, 174);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -39,7 +41,7 @@ main{
 }
 
 table{
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     font-size: 15px;
     text-align: left;
 }
